@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "pF16OdWScL4//BXPSN37TYvO8Hq91hP1s/PnvfuspYFFXKUav59RtmEhuWkN7ETjPN4Ud4B4YdbTLOmrYB1RrA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\crist\\source\\repos\\truck-simulator-key-server\\TruckSimulatorKeyServer\\TruckSimulatorKeyServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\crist\\.nuget\\packages\\inputsimulatorstandard\\1.0.0\\inputsimulatorstandard.1.0.0.nupkg.sha512",
+    "C:\\Users\\crist\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.9\\microsoft.aspnetcore.jsonpatch.3.1.9.nupkg.sha512",
+    "C:\\Users\\crist\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.9\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.9.nupkg.sha512",
+    "C:\\Users\\crist\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\crist\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\crist\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
