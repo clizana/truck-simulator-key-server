@@ -1,0 +1,19 @@
+{
+    "comments": [
+        "==============================",
+        "     SKIN CONFIGURATION       ",
+        "==============================",
+
+        " Skin to demostrate how to use truck simulator key server",
+        " https://github.com/clizana/truck-simulator-key-server"
+    ],
+
+    "config": {
+        "name": "button-control",
+        "title": "Button Control Example",
+        "author": "clizana",        
+        "width": 2048,
+        "height": 1152
+    }    
+
+}
